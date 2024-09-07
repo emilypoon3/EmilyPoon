@@ -218,4 +218,5 @@
 
   .titlecard {
     background-size: cover;
+    overflow: hidden;
 }
