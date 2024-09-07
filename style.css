@@ -217,6 +217,6 @@
   }
 
   .titlecard {
-    background-size: 560px;
+    max-width: 100%;
     overflow: hidden;
 }
