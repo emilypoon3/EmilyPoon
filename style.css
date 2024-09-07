@@ -190,10 +190,10 @@
     background-color: #EFD9FF;
   }
 
-  .container:hover .overlay {
+  .imgcontainer:hover .overlay {
     opacity: 0.5;
   }
-  
+
   .text {
     color: white;
     font-size: 20px;
