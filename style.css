@@ -177,6 +177,15 @@
     color: #EFD9FF;
   }
   
+  .oneimgOV {
+    width: 1050px; 
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+  } 
+
   .overlay {
     position: absolute;
     top: 0;
@@ -190,11 +199,11 @@
     background-color: #EFD9FF;
   }
 
-  .imgcontainer:hover .overlay {
+  .oneimgOV:hover .overlay {
     opacity: 0.5;
   }
 
-  .text {
+  .overlaytext {
     color: white;
     font-size: 20px;
     position: absolute;
