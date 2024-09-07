@@ -199,8 +199,9 @@
     background-color: #EFD9FF;
   }
 
-  .oneimgOV:hover .overlay {
+  .oneimgOV:hover {
     opacity: 0.5;
+    transition: 1s ease;
   }
 
   .overlaytext {
