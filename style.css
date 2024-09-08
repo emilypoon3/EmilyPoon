@@ -91,6 +91,13 @@
     margin-right: auto;
     padding-top: 50px;
   }
+
+ figcaption {
+    text-align: left;
+    margin-left: 300px;
+    color: #1E2749;
+  }
+
   .headshot {
     width: 450px; 
     object-fit: contain;
