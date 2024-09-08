@@ -149,6 +149,7 @@
     margin-bottom: 0px;
     float: left;
   }
+  
 
   .centertext {
     margin-right: 200px;
@@ -158,6 +159,12 @@
 
   .righthead{
     float: left;
+    margin-left: 6.3em;
+    color: #1E2749;
+  }
+  
+  .rightheadtwo{
+    text-align: left;
     margin-left: 6.3em;
     color: #1E2749;
   }
