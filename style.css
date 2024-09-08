@@ -150,6 +150,12 @@
     float: left;
   }
 
+  .centertext {
+    margin-right: 200px;
+    margin-left: 200px;
+    color: #1E2749;
+  }
+
   .righthead{
     float: left;
     margin-left: 6.3em;
